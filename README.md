@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/AdrianLopezGue/daruma-backend"><img src="assets/daruma-logo-black.png" alt="Daruma Logo" width="350"></a>
+  <a href="https://github.com/LionelPerrault/daruma-backend"><img src="assets/daruma-logo-black.png" alt="Daruma Logo" width="350"></a>
   <br>
   🎎 Daruma - Frontend 🎎
   <br>
@@ -43,13 +43,13 @@ Daruma allows users to easily manage shared expenses made in a group, including 
 
 ## Install, build and run!
 
-> **DISCLAIMER:** It is necessary to run backend server in order to use mobile app. For that, it is necessary to download, build and run "Daruma Backend", located in [this repository](https://github.com/AdrianLopezGue/daruma-backend)
+> **DISCLAIMER:** It is necessary to run backend server in order to use mobile app. For that, it is necessary to download, build and run "Daruma Backend", located in [this repository](https://github.com/LionelPerrault/daruma-backend)
 
 After running backend server, clone and run this application, you'll need [Git](https://git-scm.com) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/AdrianLopezGue/daruma-frontend
+$ git clone https://github.com/LionelPerrault/daruma-frontend
 
 # Go into the repository
 $ cd daruma-frontend
@@ -70,7 +70,7 @@ This software uses the following packages:
 
 ## Related
 
-[Daruma - Backend](https://github.com/AdrianLopezGue/daruma-backend) - Backend part of Daruma.
+[Daruma - Backend](https://github.com/LionelPerrault/daruma-backend) - Backend part of Daruma.
 
 ## License
 
@@ -78,5 +78,5 @@ This software uses the following packages:
 
 ## Contact
 
-> GitHub - [@AdrianLopezGue](https://github.com/AdrianLopezGue) 
-> LinkedIn - [Adrián López Guerrero](https://www.linkedin.com/in/adrianlopezgue/)
+> GitHub - [@LionelPerrault](https://github.com/LionelPerrault) 
+> LinkedIn - [LionelPerrault](https://www.linkedin.com/in/LionelPerrault/)
