@@ -1,7 +1,5 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/LionelPerrault/daruma-backend"><img src="assets/daruma-logo-black.png" alt="Daruma Logo" width="350"></a>
-  <br>
   🎎 Daruma - Frontend 🎎
   <br>
 </h1>
